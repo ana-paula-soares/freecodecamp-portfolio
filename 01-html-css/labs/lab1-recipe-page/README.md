@@ -12,10 +12,6 @@ The purpose of this lab is to practice creating my **first website** with a stru
 - Images with alt attributes
 - Unordered and ordered lists
 
-## 💻 How to Run
-1. Open the `index.html` file in your browser.  
-2. The page will display the recipe with headings, ingredients list, instructions, and an image.
-
 ## 📝 Features
 - Page title: Chocolate Chip Cookies
 - Ingredients section using an unordered list
