@@ -5,7 +5,7 @@ A simple page created as part of the FreeCodeCamp HTML & CSS labs. This page ser
 ## 🚀 Live Demo
 You can access the live version of this project hosted on GitHub Pages by clicking the link below:
 
-[**View Chocolate Chip Cookies Page**](https://ana-paula-soares.github.io/freecodecamp-portfolio/01-html-css/labs/lab2-travel-agency-page/)
+[**View Travel Agency Page**](https://ana-paula-soares.github.io/freecodecamp-portfolio/01-html-css/labs/lab2-travel-agency-page/)
 
 ## 🛠️ Technologies Used
 
