@@ -1,6 +1,11 @@
 # Chocolate Chip Cookies Recipe Page
 > A simple web page created as part of the FreeCodeCamp HTML & CSS labs.
-> This page displays a classic chocolate chip chookies recipe with ingredients and instructions.
+> This page displays a classic chocolate chip cookies recipe with ingredients and instructions.
+
+## 🚀 Live Demo
+You can access the live version of this project hosted on GitHub Pages by clicking the link below:
+
+[**View Chocolate Chip Cookies Page**](https://ana-paula-soares.github.io/freecodecamp-portfolio/01-html-css/labs/lab1-recipe-page/)
 
 ## 🛠 Technologies Used
 - HTML5
